@@ -1,7 +1,7 @@
 #File compares space shuttles, and the number of flights they've taken
-#Used to demonstrate reading a csv file and displaying the data in vectors 
+#Used to demonstrate reading a csv file and displaying the data in vectors and a data frame
 
-#save the file to a variable
+#store the file in a variable
 file <- "shuttles.csv"
 #read the file with the read.csv() function
 info <- read.csv(file)
