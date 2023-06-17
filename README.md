@@ -23,6 +23,11 @@
 - YouTube Video - Helped me install R: https://www.youtube.com/watch?v=NZxSA80lF1I 
 - YouTube Video - Helped me install R extension on VSCode: https://www.youtube.com/watch?v=c3ZQ8-OYj2M 
 - W3Schools: https://www.w3schools.com/r/default.asp
+- Learn-R.org: https://learn-r.org/r-tutorial/read-csv.php 
+
+# Data Sources
+
+- Space Shuttles - https://en.wikipedia.org/wiki/List_of_Space_Shuttle_missions#Flight_numbering 
 
 # Future Work
 
