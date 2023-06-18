@@ -8,9 +8,7 @@ My software consists of many files, each of them letting me practice with all of
 
 My purpose for writing this software is to become more familiar with the basics of the R programming language,especially if I am interested in data analysis.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo Video - https://www.youtube.com/watch?v=0xkxNRlhMKM 
 
 # Development Environment
 
