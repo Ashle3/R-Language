@@ -9,7 +9,10 @@ fav_dogs <- list("English Bulldog", "Golden Retriever",
 dog_list <- function(list){
     for (x in list){
         print(x)
-        #print the data type of each item in the list
+    }
+
+    #return the data type of each item in the list parameter
+    for (x in list){
         print(class(x))
     }
 }
