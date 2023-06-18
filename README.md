@@ -2,11 +2,11 @@
 
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Data analysis is a subject I am curious about as a software engineer. While reading up on data analysis, I learned that the R language is widely used when it comes to data analysis. In order to expand my knowledge in as many programming languages as possible, and looking to learn more about data analysis, I thought it would be important to learn the R language.
 
-{Provide a description of the software that you wrote to demonstrate the R language.}
+My software consists of many files, each of them letting me practice with all of the different R data types (numeric, integer, complex, character, and boolean), as well as basic R syntax such as printing, looping, data frames, or reading from a csv file.
 
-{Describe your purpose for writing this software.}
+My purpose for writing this software is to become more familiar with the basics of the R programming language,especially if I am interested in data analysis.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -14,9 +14,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VSCode to edit the code in my software, as well as Microsoft Excel, to write my CSV file, and the R language, which I downloaded onto my device from the internet.
 
-{Describe the programming language that you used and any libraries.}
+The programming language I used for this project is R, which is mainly used in data analysis. 
 
 # Useful Websites
 
@@ -31,8 +31,6 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Create a program that is more cohesive (i.e. it has a purpose and isn't broken up into so many files)
+- Analyze bigger sets of data
+- Create more varied graphs to help visualize data
